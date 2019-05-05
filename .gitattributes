@@ -1,0 +1,2 @@
+*.h linguist-language=python
+*.cpp linguist-language=python
