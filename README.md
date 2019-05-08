@@ -31,7 +31,7 @@ HardWare
 12.	Anker Powercore 5000 Portable Charger
 13.	HC – SR04 Ultrasonic Distance Sensor
 14.	Printed Circuit Board
-15.	RC Car Kit
+15.	RC Car Kit （https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5c2c2e8dPeEeKL&id=556110269103&_u=8cvo7l2e174）
 
 ```
 SoftWare
